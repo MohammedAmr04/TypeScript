@@ -138,7 +138,7 @@
     High,
   }
   console.log(Direction.Up, Direction.Down); // 0 1
-  console.log(level.Low, level.Medium, level.High); // 1 2 3
+  console.log(level.Low, level.Medium, level.High); // 5 6 7
 }
 
 // type assertions
